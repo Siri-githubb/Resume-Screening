@@ -9,10 +9,6 @@ Hiring is broken. Recruiters are drowning in resumes, losing time, and missing g
 
 This isn’t about filtering resumes.
 This is about **finding the right people — faster, smarter, and without bias**.
-
-<img width="800" height="450" alt="Output" src="https://github.com/user-attachments/assets/29d97dc4-199f-4d73-80ce-ca6246ad9fd1" />
-
-
 ---
 
 ##  What It Does
@@ -20,7 +16,7 @@ This is about **finding the right people — faster, smarter, and without bias**
 *  **Extracts key resume insights** with NLP — clean, structured, and fast.
 *  **Matches candidates** to job descriptions using semantic similarity.
 *  **Learns and improves** with machine learning algorithms.
-*  **Runs on Streamlit**, for instant, interactive, and beautiful UI.
+*  **Runs on Streamlit**, for instant, interactive, and better UI.
 
 ---
 
