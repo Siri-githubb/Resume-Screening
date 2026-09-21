@@ -66,18 +66,6 @@ streamlit run WebSite/app.py
 
 ---
 
-##  Want to Contribute?
-
-Whether you're a coder, designer, or just someone passionate about solving real-world problems — your ideas are welcome. Fork it, build it, improve it.
-
----
-
-##  License
-
-[MIT License](License) — because great tools should be free to build, break, and better.
-
----
-
 ##  What’s Next?
 
 *  Add resume ranking
